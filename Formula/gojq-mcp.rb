@@ -4,7 +4,7 @@ class GojqMcp < Formula
   license "MIT"
 
   # Set this to your latest tag (without the leading 'v' in version, but keep 'v' in the URLs)
-  version "0.1.0"
+  version "1.0.1"
 
   livecheck do
     url :stable
